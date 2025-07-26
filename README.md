@@ -187,13 +187,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 👨‍💻 Developer Information
-
-**Name**: ALUMOLU RAKESH REDDY  
-**Enrollment No**: 22117017  
-**Email**: alumolu_rr@me.iitr.ac.in  
-**Branch**: Mechanical Engineering  
-**Institution**: Indian Institute of Technology Roorkee
 
 ---
 
